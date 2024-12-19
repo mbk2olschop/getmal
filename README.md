@@ -44,3 +44,5 @@ Wait for it to compile...
 - Technical debt: You don't want to know
 
 # PR Merge: 2025-10-16 - fix/merge-2093
+
+# PR Merge: 2025-10-16 - docs/merge-3208
