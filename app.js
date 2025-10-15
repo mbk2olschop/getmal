@@ -124,3 +124,5 @@
 # PR Merge: 2025-10-16 - fix/merge-2443
 
 # PR Merge: 2025-10-16 - feature/merge-3321
+
+# PR Update: 2025-10-16 - docs/update-8723
